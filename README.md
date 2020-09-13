@@ -27,11 +27,11 @@ Introduce el plazo en meses
 
 Cuota mensual: 086.98
 
-Plazo actual: 01
-Cuota interes: 006.66
-Cuota amortizacion: 080.32
-Capital amortizado: 0080.32
-Capital vivo: 0919.68
+Plazo actual: 01 <br>
+Cuota interes: 006.66 <br>
+Cuota amortizacion: 080.32 <br>
+Capital amortizado: 0080.32 <br>
+Capital vivo: 0919.68 <br>
 
 Plazo actual: 02
 Cuota interes: 006.13
