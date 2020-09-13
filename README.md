@@ -2,21 +2,21 @@
 
 Para poder compilarlo en linux:
 
-## Instalamos el compilador
+### Instalamos el compilador
 sudo apt install open-cobol
 whereis cobc; which cobc
 cobc: /usr/bin/cobc /usr/share/man/man1/cobc.1.gz
 /usr/bin/cobc
 
-## Compilamos
+### Compilamos
 cobc -free -x -o frances PRESTAMO-FRANCES.cob
 
-## Ejecutamos
+### Ejecutamos
 ./frances
 
-## Ejemplo de output:
+### Ejemplo de output:
 
-./frances
+./frances<br>
 Calculo de la cuota de un prestamo frances
 Introduce la cantidad prestada
 1000
