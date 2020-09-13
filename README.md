@@ -3,8 +3,8 @@
 Para poder compilarlo en linux:
 
 ## Instalamos el compilador
-computer@computer-computer:~$ sudo apt install open-cobol
-computer@computer-computer:~$ whereis cobc; which cobc
+sudo apt install open-cobol
+whereis cobc; which cobc
 cobc: /usr/bin/cobc /usr/share/man/man1/cobc.1.gz
 /usr/bin/cobc
 
