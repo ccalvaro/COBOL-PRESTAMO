@@ -16,7 +16,7 @@ cobc -free -x -o frances PRESTAMO-FRANCES.cob
 
 ## Ejemplo de output:
 
-computer@computer-computer:~/Desktop/cobol/PrestamoFrances$ ./frances
+./frances
 Calculo de la cuota de un prestamo frances
 Introduce la cantidad prestada
 1000
