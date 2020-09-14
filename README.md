@@ -3,10 +3,11 @@
 Para poder compilarlo en linux:
 
 ### Instalamos el compilador
-sudo apt install open-cobol
-whereis cobc; which cobc
-cobc: /usr/bin/cobc /usr/share/man/man1/cobc.1.gz
-/usr/bin/cobc
+sudo apt install open-cobol <br>
+Comprobamos:  <br>
+whereis cobc; which cobc <br>
+cobc: /usr/bin/cobc /usr/share/man/man1/cobc.1.gz <br>
+/usr/bin/cobc <br>
 
 ### Compilamos
 cobc -free -x -o frances PRESTAMO-FRANCES.cob
