@@ -17,15 +17,15 @@ cobc -free -x -o frances PRESTAMO-FRANCES.cob
 ### Ejemplo de output:
 
 ./frances<br>
-Calculo de la cuota de un prestamo frances
-Introduce la cantidad prestada
-1000
-Introduce el interes anual
-8
-Introduce el plazo en meses
-12
+Calculo de la cuota de un prestamo frances <br>
+Introduce la cantidad prestada <br>
+1000 <br>
+Introduce el interes anual <br>
+8 <br>
+Introduce el plazo en meses <br>
+12 <br>
 
-Cuota mensual: 086.98
+Cuota mensual: 086.98 <br>
 
 Plazo actual: 01 <br>
 Cuota interes: 006.66 <br>
